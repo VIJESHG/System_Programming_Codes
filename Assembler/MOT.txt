@@ -1,0 +1,7 @@
+READ	10		
+LOAD	11	
+STORE	22	
+ADD		23	
+SUB 	24	
+WRITE	2
+END 	1 

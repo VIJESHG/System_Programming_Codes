@@ -1,0 +1,4 @@
+A		ID		10
+B		ID		12
+sum		ID		00
+sum		ID		00

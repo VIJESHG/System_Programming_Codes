@@ -1,0 +1,12 @@
+READ f
+READ d
+MACRO first a b
+	LOAD a
+	ADD b
+	MEND
+MACRO second
+	LOAD f
+	ADD d
+	MEND
+	first 7 8
+	END
